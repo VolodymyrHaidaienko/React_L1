@@ -1,0 +1,22 @@
+.Wraper{
+    display: inline-block;
+    width: 100%;
+
+}
+.Userinfo{
+    background: #61dafb;
+    width: 50%;
+    display: inline-block;
+    height: 100px;
+}
+.Useraddress{
+    background: gray;
+    width: 50%;
+    display: inline-block;
+    height: 100px;
+    vertical-align: top;
+}
+.Usergeo{
+    background: coral;
+    width: 100%;
+}
